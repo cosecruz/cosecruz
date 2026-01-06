@@ -33,7 +33,7 @@ Save as banner.png and place in your repo, then uncomment below:
 
 Building reliable systems, automating everything, and designing tools that make developers faster, safer, and more productive.
 
-[![GitHub followers](https://img.shields.io/github/followers/OESISU?style=flat&logo=github&logoColor=white&labelColor=1a1b27&color=8b5cf6)](https://github.com/OESISU)
+[![GitHub followers](https://img.shields.io/github/followers/OESISU?style=flat&logo=github&logoColor=white&labelColor=1a1b27&color=8b5cf6)](https://github.com/cosecruz)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1b27?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebuka-obiechi-551128174/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-1a1b27?style=flat&logo=safari&logoColor=white)](https://portfolio.oesisu.com)
 
