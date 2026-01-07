@@ -119,7 +119,7 @@ I also build smaller tools and experiments that improve everyday engineering:
 
 ### **Languages**
 
-Rust · TypeScript · Go · Ruby · Bash
+Rust · TypeScript · Go  · Bash
 
 ### **Backend & Systems**
 
