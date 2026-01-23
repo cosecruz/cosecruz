@@ -20,7 +20,7 @@
 BANNER IMAGE GENERATION PROMPT:
 "Dark mode Apple-style banner with smooth purple, blue, and pink gradients. 
 Minimalist geometric patterns, subtle glow effects, futuristic aesthetic. 
-Text 'OESISU' centered in clean modern sans-serif font. 
+Text 'OESISU' centered in a clean modern sans-serif font. 
 16:9 aspect ratio, premium tech vibe, depth and dimension."
 
 Save as banner.png and place in your repo, then uncomment below:
@@ -33,7 +33,7 @@ Save as banner.png and place in your repo, then uncomment below:
 
 Building reliable systems, automating everything, and designing tools that make developers faster, safer, and more productive.
 
-[![GitHub followers](https://img.shields.io/github/followers/OESISU?style=flat&logo=github&logoColor=white&labelColor=1a1b27&color=8b5cf6)](https://github.com/cosecruz)
+[![GitHub followers](https://img.shields.io/github/followers/cosecruz?style=flat&logo=github&logoColor=white&labelColor=1a1b27&color=8b5cf6)](https://github.com/cosecruz)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-1a1b27?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebuka-obiechi-551128174/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-1a1b27?style=flat&logo=safari&logoColor=white)](https://portfolio.oesisu.com)
 
@@ -45,7 +45,7 @@ Building reliable systems, automating everything, and designing tools that make 
 
 I'm a backend-leaning software engineer who enjoys designing systems that are clean, dependable, and easy to operate.
 
-My strengths sit at the intersection of **backend engineering, cloud automation, DevOps, and developer experience**, where I build tools and services that scale without becoming painful to maintain.
+My strengths lie at the intersection of **backend engineering, cloud automation, DevOps, and developer experience**, where I build tools and services that scale without becoming painful to maintain.
 
 I enjoy working with **Rust, TypeScript, Go, and Ruby**, with a growing focus on high-performance Rust systems, background task orchestration, distributed workloads, and automation pipelines.
 
@@ -89,7 +89,7 @@ This project represents my passion for seamless engineering experiences and auto
 
 ### 🔸 **IJe — Unified Logistics & Transport Platform**
 
-A smart logistics platform designed to handle delivery, freight, and courier operations in one cohesive system.
+A smart logistics platform designed to manage delivery, freight, and courier operations in a single cohesive system.
 
 **Engineering Focus**
 
@@ -119,11 +119,11 @@ I also build smaller tools and experiments that improve everyday engineering:
 
 ### **Languages**
 
-Rust · TypeScript · Go  · Bash
+Rust · TypeScript · Go  · Bash . Python
 
 ### **Backend & Systems**
 
-Node.js · Actix/Tauri (Rust) · gRPC · PostgreSQL · Redis
+Node.js · Axum/Actix/Tauri (Rust) · REST · gRPC · PostgreSQL · Redis
 
 ### **Cloud & DevOps**
 
@@ -149,9 +149,9 @@ Neovim · VS Code · Git · Make · CLI tooling · Observability stacks
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OESISU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cosecruz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OESISU&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8b5cf6&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cosecruz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=8b5cf6&text_color=c9d1d9)
 
 </div>
 
@@ -179,9 +179,9 @@ I value clarity, pragmatism, and building things that last. If you're looking fo
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ebuka-obiechi-551128174/)
 [![Portfolio](https://img.shields.io/badge/-View_Portfolio-8b5cf6?style=for-the-badge&logo=safari&logoColor=white)](https://portfolio.oesisu.com)
-[![GitHub](https://img.shields.io/badge/-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OESISU)
+[![GitHub](https://img.shields.io/badge/-Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cosecruz)
 
-If you build things, break things, or automate things—I'm always open to collaborate.
+If you build things, break things, or automate things—I'm always open to collaborating.
 
 </div>
 
@@ -193,6 +193,6 @@ If you build things, break things, or automate things—I'm always open to colla
 
 ---
 
-*⚙️ Engineering is craft. Craft deserves clarity.*
+*⚙️ Engineering is a craft. Craft deserves clarity.*
 
 </div>
